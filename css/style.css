@@ -2,11 +2,11 @@
 body {
   background-color:turquoise;
   color:purple;
-  text-shadow: 2px 2px #fdff99;
+  
 }
 
 head {
-  
+ text-shadow: 2px 2px #fdff99; 
 }
 
 h3 {
