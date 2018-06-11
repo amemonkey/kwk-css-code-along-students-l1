@@ -1,14 +1,14 @@
 /* add CSS class and element and selectors here */
 body {
   background-color:turquoise;
-  color:purple
-  ;
+  color:purple;
+  text-shadow: 2px 2px #fdff99;
 }
 
 h3 {
   font-size: 300%;
   color: purple;
-  text-shadow: 2px 2px #fdff99;
+  
 }
 
 div{
